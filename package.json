@@ -1,5 +1,6 @@
 {
   "name": "react-native-proximity",
+  "packageManager": "yarn@3.6.4",
   "version": "3.0.0",
   "description": "Detect proximity on iOS and Android",
   "main": "index.js",
